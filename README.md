@@ -1,6 +1,9 @@
 # desain1
 
 Desain aplikasi android
-[Image 1](github.com/afifhusain/desain1/image1.jpg)
+
+<div align="center">
+    <img src="image1.png" width="400px"</img> 
+</div>
 
 [Image 2](github.com/afifhusain/desain1/image2.jpg)
