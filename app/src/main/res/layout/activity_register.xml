@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#fff"
+    android:padding="20dp"
     tools:context=".RegisterActivity">
 
     <ImageView
@@ -111,6 +112,7 @@
         android:layout_height="wrap_content"
         android:text="Register"
         android:background="#000"
+        android:onClick="registerUser"
         android:textColor="#fff"/>
 
     <Button
