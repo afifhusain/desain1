@@ -13,3 +13,9 @@ Screenshot 2
 <div align="center">
     <img src="image2.png" width="400px"</img> 
 </div>
+
+Screenshot 3
+
+<div align="center">
+    <img src="image3.png" width="400px"</img> 
+</div>
